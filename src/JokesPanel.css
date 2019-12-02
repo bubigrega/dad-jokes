@@ -1,0 +1,12 @@
+.JokesPanel-loading {
+  width: 100%;
+  height: 100%;
+}
+
+.JokesPanel-loading p {
+  margin-top: 100px;
+  text-align: center;
+  font-size: 5rem;
+  color: purple;
+  font-weight: 400;
+}
